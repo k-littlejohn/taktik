@@ -1,5 +1,20 @@
 # Taktik
 
+## App Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4deb8a69-7863-4ead-a946-6edbf6efdb19" width="120"/>
+  <img src="https://github.com/user-attachments/assets/f6f0b5f7-e9ee-4c23-9f7b-016d24ca4350" width="120"/>
+  <img src="https://github.com/user-attachments/assets/68a37149-d04d-4753-9789-08c3360be86d" width="120"/>
+  <img src="https://github.com/user-attachments/assets/bdf60db9-cda6-45bf-91eb-6b30480df174" width="120"/>
+  <img src="https://github.com/user-attachments/assets/85ac1adc-a321-46d4-8edc-1a6fb1a4e994" width="120"/>
+  <img src="https://github.com/user-attachments/assets/73cfa880-8241-4fd2-9ec2-307d5d78c63a" width="120"/>
+  <img src="https://github.com/user-attachments/assets/d215e397-5127-4d81-a280-2b366c55776e" width="120"/>
+  <img src="https://github.com/user-attachments/assets/c9da7a55-1eb1-4a04-acef-b88d3c04153f" width="120"/>
+</p>
+
+
+
 Taktik is a mobile trading simulation app designed to help users backtest forex strategies using real market data and review performance outcomes through a clean, user-friendly interface.
 
 The project focuses on combining software engineering, database design, UI design, and data-driven decision-making into one practical application. Taktik allows users to test trading strategy logic, analyze results, and better understand how different strategies perform across historical market conditions.
